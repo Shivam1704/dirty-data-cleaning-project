@@ -1,5 +1,3 @@
-# dirty-data-cleaning-project
-Project for cleaning and exploring a messy Kaggle dataset
 # 🧹 Dirty Data Cleaning Project
 
 This project focuses on cleaning and analyzing a messy real-world dataset from Kaggle.
